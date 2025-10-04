@@ -1,0 +1,25 @@
+**Database Name: attendancemsystem**
+
+**Developed by Jishnu S**
+
+**Recommended PHP Version 5.6 and Newer**
+
+**Admin Login Details**
+
+Email   : admin@gmail.com
+Password: admin
+
+
+**Teacher Login Details**
+
+Email   : teacher1@gmail.com
+Password: teacher1
+
+**Default password for teacher's account: pass123**
+
+**Student Login Details**
+
+Email   : student1@gmail.com
+Password: student1
+
+**Default password for Student'ss account: pwd123**

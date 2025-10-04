@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Attendance Management System
 
 ## Table of Contents
@@ -111,3 +112,6 @@ The **Attendance Management System** is a web-based application designed to auto
 ---
 
 
+=======
+# Attendance_Management_System
+>>>>>>> 6166e5b645a1f4850ec23ed706b318b28d098318
